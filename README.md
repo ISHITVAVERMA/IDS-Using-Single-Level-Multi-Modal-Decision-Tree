@@ -20,4 +20,10 @@ The proposed approach consists of 4 fundamental stages:
 2. Pandas
 3. sklearn
 
-Contributors
+# Contributors
+<a href = "https://github.com/ISHITVAVERMA">1. Ishitva Verma </a></br>
+<a href = "https://github.com/Akash708231">2. Akash Butar </a></br>
+
+<p align="center">
+	Made with :heart:
+</p>
