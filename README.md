@@ -7,4 +7,17 @@ Elimination(RFE).Because of RFE the attacks are detected more efficiently even i
 and therefore a lower rate of false alarms. Also, The time taken to detect attacks can be cut down significantly by using databases for storage and the concept of 
 Dynamic multi-boosting. The proposed network intrusion detection system can classify packets in real-time based on the packets collected from the networkflow.
 
-# 
+# Proposed System Flow
+
+The proposed approach consists of 4 fundamental stages:
+1. Feature selection
+2. Combining the optimal features
+3. Building a classifier
+4. Evaluation
+
+# Software Used
+1. Numpy
+2. Pandas
+3. sklearn
+
+Contributors
