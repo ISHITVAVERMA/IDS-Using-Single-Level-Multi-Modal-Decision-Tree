@@ -23,7 +23,6 @@ The proposed approach consists of 4 fundamental stages:
 # Contributors
 <a href = "https://github.com/ISHITVAVERMA">1. Ishitva Verma </a></br>
 <a href = "https://github.com/Akash708231">2. Akash Butar </a></br>
-<h1>Hello i am Akash</h1>
 
 <p align="center">
 	Made with :heart:
